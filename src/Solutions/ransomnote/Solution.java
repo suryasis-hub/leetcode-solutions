@@ -1,4 +1,4 @@
-package Solutions.binarynumberlinkedlist.ransomnote;
+package Solutions.ransomnote;
 
 import java.util.HashMap;
 import java.util.Map;
